@@ -6,7 +6,8 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
-        "실습 코드/Lab15 Linear Regression/.ipynb_checkpoints": true
+        "실습 코드/Lab15 Linear Regression/.ipynb_checkpoints": true,
+        "code/Lab17 Random Forest/.ipynb_checkpoints": true
     },
     "explorerExclude.backup": {},
     "python.linting.pylintEnabled": true,
